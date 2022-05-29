@@ -1,9 +1,17 @@
 # Проект: Путешествие по России
 
 ### Обзор
+* сайт
 * Интро
 * Figma
 * Картинки
+
+**https://engoren.github.io/russian-travel/**
+
+### Скрины / Screenshots
+![demo russian travel project 1](https://github.com/engoren/russian-travel/blob/main/russian-travel-screen-1.png)
+![demo russian travel project 2](https://github.com/engoren/russian-travel/blob/main/russian-travel-screen-2.png)
+
 
 **Интро**
 
