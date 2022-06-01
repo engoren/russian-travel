@@ -1,7 +1,9 @@
 # Проект: Путешествие по России
 
 ### Обзор
-* сайт
+* Ссылка на сайт
+* Скрины
+* Используемые Техники
 * Интро
 * Figma
 * Картинки
@@ -12,6 +14,17 @@
 ![demo russian travel project 1](https://github.com/engoren/russian-travel/blob/main/russian-travel-screen-1.png)
 ![demo russian travel project 2](https://github.com/engoren/russian-travel/blob/main/russian-travel-screen-2.png)
 
+### Используемые Техники
+- HTML5;
+- CSS3:
+  - Flexbox;
+  - Grid Layout;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
+- Методология БЭМ;
+- Фйловая структура Nested БЭМ;
+- Вёрстка по макету в Figma.
 
 **Интро**
 
