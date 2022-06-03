@@ -1,4 +1,4 @@
-.footer {
+/*.footer {
   max-width: 1184px;
   box-sizing: border-box;
   display: flex;
@@ -6,6 +6,21 @@
   flex-wrap: wrap;
   margin: 0 auto;
   padding: 0 3rem 1.5rem;
+}
+*/
+.footer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1184px;
+    height: 18px;
+    margin: 0 auto;
+    color: #fff;
+}
+
+@media screen and (max-width: 1280px) {
+    .footer {
+        max-width: calc(100% - 48px * 2);
+    }
 }
 
 @media screen and (max-width: 768px) {
