@@ -26,9 +26,15 @@
   }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 720px) {
   .place {
     grid-template-columns: minmax(min-content, max-content);
     gap: 2rem;
   }
+
+ @media screen and (max-width: 320px) {
+   .places {
+      padding: 0 0 64px 0px;
+   }
+}
 }

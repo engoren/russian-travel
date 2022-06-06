@@ -9,8 +9,7 @@
 }
 
 @media screen and (max-width: 425px) {
-  .place__url_heading {
-    padding: 0 1rem;
+  .place__url-heading {
     margin-left: 1rem;
   }
 }

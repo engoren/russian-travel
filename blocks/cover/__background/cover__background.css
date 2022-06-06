@@ -7,11 +7,12 @@
   align-items: center;
   background-image: url(../../../images/cover-trains.jpg);
   background-position: center;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
   color: #fff;
   text-decoration: none;
+
 }
 
 .cover__background:after {
@@ -33,6 +34,7 @@
 @media screen and (min-width: 1280px) {
   .cover__background {
     min-height: 740px;
+    margin: 0 48px;
   }
 }
 
